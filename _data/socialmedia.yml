@@ -2,48 +2,11 @@
   url: http://github.com/gebertdominik
   class: icon-github
   title: "Konto Github"
-
-# - name: YouTube
-#  url: http://www.youtube.com/PhlowMedia
-#  class: icon-youtube
-#  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
-
 - name: Twitter
   url: http://twitter.com/dominikgebert
   class: icon-twitter
   title: "Konto na twitterze"
-
-# - name: Mixcloud
-#   url: http://www.mixcloud.com/phlow/
-#   class: icon-cloud
-#   title: "Mixe, was sonst?"
-
-# - name: Phlow YouTube Google+
-#   url: https://plus.google.com/u/0/+Phlow
-#   class: icon-googleplus
-#   title: "YouTube Google+"
-
- - name: Facebook
-   url: http://www.facebook.com/dominik.gebert
-   class: icon-facebook
-   title: "Profil Facebook"
-
-# - name: Soundcloud
-#   url: http://soundcloud.com/
-#   class: icon-soundcloud
-#   title: ""
-
-# - name: Instagram
-#   url: http://instagram.com/
-#   class: icon-instagram
-#   title: ""
-
-# - name: Pinterest
-#   url: http://www.pinterest.com/
-#   class: icon-pinterest
-#   title: ""
-
-# - name: Xing
-#   url: https://www.xing.com/profile/
-#   class: icon-xing
-#   title: Xing Profil
+- name: Facebook
+  url: http://www.facebook.com/dominik.gebert
+  class: icon-facebook
+  title: "Profil Facebook"
