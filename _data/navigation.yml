@@ -62,14 +62,14 @@
 - title: Blog
   url: "/blog/"
   side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+  #  dropdown:
+  #  - title: "Blog Archive"
+  #    url: "/blog/archive/"
 
-- title: "Search"
-  url: "/search/"
-  side: right
-
-- title: "Contact"
+- title: "Kontakt"
   url: "/contact/"
-  side: right
+  side: left
+ 
+- title: "Szukaj"
+  url: "/search/"
+  side: left
