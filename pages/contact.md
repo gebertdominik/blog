@@ -1,12 +1,14 @@
 ---
 layout: page
-title: "Contact"
-meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+title: "Kontakt"
+meta_title: "Strona kontaktowa"
+# subheadline: "Wufoo-powered contact forms"
+teaser: "Odezwij się do mnie!"
 permalink: "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
+Jeśli chcesz się ze mną skontaktować to najlepszym sposobem jest wysłanie maila na adres [dominik@gebert.pl][1].
+Możesz mnie także znaleźć w serwisie [linkedIn][2] oraz w innych serwisach społecznościowych.
 
+ [1]: mailto:dominik@gebert.pl
+ [2]: https://www.linkedin.com/in/dominikgebert/
 
- [1]: http://www.wufoo.com/
