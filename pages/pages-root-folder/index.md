@@ -8,17 +8,17 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: "Blog"
-  url: 'https:gebert.pl/blog/'
+  title: 'Blog'
+  url: 'https://gebert.pl/blog/'
   image: widget-1-302x182.jpg
   text: 'Na moim blogu staram się dzielić przemyśleniami i wiedzą zdobytą podczas codziennej pracy. Opisuję tu zarówno tematy techniczne, jak i zagadnienia luźno związane z branżą IT.'
 widget2:
-  title: "Współpraca"
+  title: 'Współpraca'
   url: 'https://gebert.pl/contact/'
   text: 'W przypadku pytań, propozycji współpracy, czy dowolnych uwag, bardzo proszę o skorzystanie z danych przedstawionych w zakładce Kontakt.'
 widget3:
-  title: "https://www.linkedin.com/in/dominikgebert/"
-  url: '#'
+  title: 'Doświadczenie zawodowe'
+  url: 'https://www.linkedin.com/in/dominikgebert/'
   image: widget-github-303x182.jpg
   text: 'Moje doświadczenie zawodowe i CV dostępne jest w serwisie LinkedIn.'
 #
@@ -41,11 +41,3 @@ widget3:
 # this page as active in the topbar navigation
 #
 homepage: true
----
-
-<!-- <div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div> -->
