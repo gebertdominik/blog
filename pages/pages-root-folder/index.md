@@ -10,17 +10,17 @@ header:
 widget1:
   title: 'Blog'
   url: 'https://gebert.pl/blog/'
-  image: widget-1-302x182.jpg
+  image: absolutvision-bSlHKWxxXak-unsplash.jpg
   text: 'Na moim blogu staram się dzielić przemyśleniami i wiedzą zdobytą podczas codziennej pracy. Opisuję tu zarówno tematy techniczne, jak i zagadnienia luźno związane z branżą IT.'
 widget2:
   title: 'Współpraca'
   url: 'https://gebert.pl/contact/'
-  image: widget-1-302x182.jpg
+  image: massimo-sartirana-RBanjYvF9_Y-unsplash.jpg
   text: 'W przypadku pytań, propozycji współpracy, czy dowolnych uwag, bardzo proszę o skorzystanie z danych przedstawionych w zakładce Kontakt.'
 widget3:
   title: 'Doświadczenie zawodowe'
   url: 'https://www.linkedin.com/in/dominikgebert/'
-  image: widget-github-303x182.jpg
+  image: pascal-habermann-pqHRNS8Mojc-unsplash.jpg
   text: 'Moje doświadczenie zawodowe i CV dostępne jest w serwisie LinkedIn.'
 permalink: /index.html
 homepage: true
